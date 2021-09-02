@@ -2,7 +2,7 @@
 InspIRCd Docker container for ARM64
 
 ## What is it?
-inspIRCd-ARM is a containerized version of the [inspIRCd](https://www.inspircd.org/) internet relay chat server that you can run in a Docker container on Raspberry Pi.
+inspIRCd-ARM is a containerized version of the [inspIRCd](https://www.inspircd.org/) internet relay chat server you can run in a Docker container on Raspberry Pi.
 
 ## For the love of God man, why?
 The number one reason: the [official Docker builds](https://hub.docker.com/r/inspircd/inspircd-docker) do not include ARM-based architecture.
